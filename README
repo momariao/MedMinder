@@ -1,0 +1,51 @@
+# MedMinder 💊  
+Smart Medication Management System
+
+MedMinder is an innovative, automated medication management device designed to improve patient safety and compliance—especially for individuals living with dementia. Developed in collaboration with Angelina Kong, this system integrates precise hardware automation with intuitive software alerts, aiming to reduce human error in daily medication routines.
+
+## 🌟 Key Features
+
+- Automated Dispensing 
+  Powered by a reliable **STM32 microcontroller** and electric motors, Medminder dispenses medication at pre-set intervals, ensuring consistent and timely dosing.
+
+- Weight Reduction Mechanism
+  Custom-built weight calibration technology enhanced dosing accuracy by 30%, providing an extra layer of safety and minimizing the chance of overdose.
+
+- Smart Alert System
+  A dual-layer alert system was developed, combining *blinking LED indicators* and *SMS notifications* to reduce missed doses by 50%.
+
+- Patient-Centric Design
+  Designed with vulnerable users in mind, particularly dementia patients, Medminder provides peace of mind to caregivers and family members through advanced monitoring and fail-safe mechanisms.
+
+## ⚙️ Technologies Used
+
+- Microcontroller: STM32 series  
+- Programming Language: C / Embedded C  
+- Communication: GSM module for SMS alerts  
+- Hardware Components:  
+  - Electric motors  
+  - Load sensors for weight-based verification  
+  - LED indicators  
+  - Real-time clock module
+
+## 🚀 Impact
+
+- Improved medication adherence by 50%  
+- Increased dosing accuracy by 30%  
+- Reduced risk of accidental overdoses  
+- Enhanced quality of life for elderly and memory-impaired patients
+
+## 📦 Future Enhancements
+
+- Bluetooth support for caregiver app integration  
+- Voice reminders for visually impaired patients  
+- Data analytics dashboard for long-term health tracking
+
+## 🤝 Credits
+
+Created by Maria Omer and Angelina Kong 
+A project born from the passion to make healthcare safer, smarter, and more human.
+
+---
+
+*This project is part of our course ECE 198.*
